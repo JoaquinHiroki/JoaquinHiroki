@@ -16,9 +16,6 @@
 👅 Spanish | English | French
 
 
-🐍 Python | Looking to learn Java | C++ | C
-
-
 🌧 Salesforce trailblazer
 
 
