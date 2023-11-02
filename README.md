@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/joaquin-hiroki-campos-kishi">
+  <a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
     <img alt="LinkedIn" title="Take a look at my LinkedIn" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
           "/></a>
@@ -31,5 +31,7 @@
 
 ### languages and tools 🧰
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+            <img src="
+            <i class="devicon-python-plain colored"></i>
+          " />
             
