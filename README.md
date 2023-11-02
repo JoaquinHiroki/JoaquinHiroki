@@ -25,8 +25,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
-    <img alt="LinkedIn" title="Take a look at my linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
-          
+    <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="20" height="20" />
+</a>
+
 
 
 ### languages and tools 🧰
