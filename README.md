@@ -24,12 +24,12 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/joaquin-hiroki-campos-kishi">
-    <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="LinkedIn" title="Take a look at my LinkedIn" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          "/></a>
 </p>
 
 ### languages and tools 🧰
 
-
-[<img align="left" alt="Python" width="30px" src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-            style="padding-right:10px;" />]
+            
