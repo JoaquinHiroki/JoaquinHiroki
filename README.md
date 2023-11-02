@@ -30,7 +30,7 @@
     <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
 </p>
 
-### Languages and tools 
+### languages and tools 🧰
 
 
 [<img align="left" alt="Python" width="30px" src="
