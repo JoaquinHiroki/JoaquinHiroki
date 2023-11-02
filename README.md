@@ -16,9 +16,6 @@
 👅 Spanish | English | French
 
 
-🌧 Salesforce trailblazer
-
-
 ❤️ Data Science | UX
 
 ### contact me 💬
