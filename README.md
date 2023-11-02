@@ -21,7 +21,7 @@
 
 ❤️ Data Science | UX
 
-### LinkedIn
+### contact me 💬
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
