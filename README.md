@@ -24,11 +24,10 @@
 ### LinkedIn
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
-    <img alt="LinkedIn" title="Take a look at my LinkedIn"
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
+    <img alt="LinkedIn" title="Take a look at my linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
           
-</p>
+
 
 ### languages and tools 🧰
 
