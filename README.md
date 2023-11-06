@@ -25,10 +25,6 @@
     <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80" />
 </a>
 
-<p align="left">
-<a href="https://www.instagram.com/joaquincampos9/">
-    <img alt="Instagram" title="Take a look at my Instagram" src="https://fontawesome.com/icons/instagram?f=brands&s=solid" width="80" height="80" />
-</a>
 
 
 ### languages and tools 🧰
