@@ -22,7 +22,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-hiroki-campos-kishi/">
-    <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50" />
+    <img alt="LinkedIn" title="Take a look at my LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80" />
 </a>
 
 
