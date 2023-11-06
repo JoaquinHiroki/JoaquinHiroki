@@ -27,7 +27,7 @@
 
 <p align="left">
 <a href="https://www.instagram.com/joaquincampos9/">
-    <img alt="Instagram" title="Take a look at my Instagram" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo.png" alt="external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo" width="80" height="80" />
+    <img alt="Instagram" title="Take a look at my Instagram" src="https://fontawesome.com/icons/instagram?f=brands&s=solid" width="80" height="80" />
 </a>
 
 
