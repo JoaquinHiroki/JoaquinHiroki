@@ -16,7 +16,7 @@
 👅 Spanish | English | French
 
 
-❤️ Data Science | UX
+❤️ IOs development | UX 
 
 ### contact me 💬
 
