@@ -16,7 +16,7 @@
 👅 Spanish | English | French
 
 
-❤️ IOs development | UX 
+❤️ Medical software
 
 ### contact me 💬
 
