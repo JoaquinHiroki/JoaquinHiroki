@@ -16,7 +16,8 @@
 👅 Spanish | English | French
 
 
-❤️ Medical software
+💻 Contingent Labor-Intern Baxter INC.
+
 
 ### contact me 💬
 
