@@ -16,7 +16,7 @@
 👅 Spanish | English | French
 
 
-💻 Contingent Labor-Intern Baxter INC.
+🩺 Data Analytics & Data Visualization Intern, Baxter INC.
 
 
 ### contact me 💬
