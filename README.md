@@ -16,7 +16,7 @@
 👅 Spanish | English | French
 
 
-🩺 Data Analytics & Data Visualization Intern, Baxter INC.
+🩺 Trainee Product Owner IT Sales & Medical Enablement, Baxter GITC.
 
 
 ### contact me 💬
