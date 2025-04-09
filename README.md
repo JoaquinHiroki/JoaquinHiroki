@@ -16,7 +16,7 @@
 👅 Spanish | English | French
 
 
-🩺 Trainee Product Owner IT Sales & Medical Enablement, Baxter GITC.
+🩺 Supply Chain Intern, Baxter GITC.
 
 
 ### contact me 💬
